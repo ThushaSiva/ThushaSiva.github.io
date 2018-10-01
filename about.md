@@ -3,13 +3,13 @@ layout: Page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is an about page about my site. 
+Basically, it is my very first site built using GitHub, so hope you like it!
 
 Reasons:
-- its great.
-- its a test.
+- practice for my project.
+- it's just a test.
 
 ## Other thoughts
 
-This is great.
+This was fun.
