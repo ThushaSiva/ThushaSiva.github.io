@@ -1,0 +1,11 @@
+# basic options
+title: Hello
+author: Thusha Siva
+email: thusha.siva96@gmail.com
+description: Introduction
+twitter_username: ThushaSiva
+github_username: ThushaSiva
+
+# Build settings
+markdown: kramdown
+theme: minima
