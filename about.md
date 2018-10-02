@@ -3,7 +3,7 @@ layout: Page
 title: About
 ---
 
-This is an about page about my site. 
+This is an about page on my site. 
 Basically, it is my very first site built using GitHub, so hope you like it!
 
 Reasons:
