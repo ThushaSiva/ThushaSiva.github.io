@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: Post
 title: First Post
 ---
 
-This is it!
-What a wonderful post!
+This is my first/last post on this site... next up will be setting up a new site for my project :)
