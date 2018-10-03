@@ -8,4 +8,4 @@ github_username: ThushaSiva
 
 # Build settings
 markdown: kramdown
-theme: business
+theme: jekyll-theme-dinky
