@@ -3,13 +3,4 @@ layout: Page
 title: About
 ---
 
-This is an about page on my site. 
-Basically, it is my very first site built using GitHub, so hope you like it!
-
-Reasons:
-- practice for my project.
-- it's just a test.
-
-## Other thoughts
-
-This was fun.
+The overall goal of this site is to help improve small-grocery stores’ competitiveness in emerging countries through digitalization by bringing together microfinance institutions, product manufacturers and distributor partners in a single platform. This is important because it will allow small grocery retailers to improve their operation’s efficiency by accessing more competitive product prices driven by order grouping, optimizing delivery and logistics and having better credit terms for product orders through risk pooling
